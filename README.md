@@ -52,14 +52,15 @@ The languages that use and I like so much are: Python and Ruby. I dedicate mysel
 <code><img height="20" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"></code>
 
-📊 **Currently I spent my time on:**
+📊  **Currently I spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-Python                 7 hrs 6 mins    █████████████░░░░░░░░░░░░   52.62 % 
-Django + Dajngo Rest   6 hrs 22 mins   ███████████▓░░░░░░░░░░░░░   47.28 % 
+Python                 
+Django + Dajngo Rest
+English
 ```
 <!--END_SECTION:waka-->
 
-📈 My github stats
+📈  **My github stats**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AlessandroSFreitas&show_icons=true&theme=gotham" alt="alessandrosfreitas" />
