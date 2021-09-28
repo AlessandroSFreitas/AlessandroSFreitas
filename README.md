@@ -12,11 +12,11 @@
 
 <br />
 
-Hi, I'm Alessandro Freitas, I'm professional highly dedicated and one my bigger motivations are the challenges that a technology imposes myself every day.
+Hi, I'm Alessandro Freitas, I'm professionally highly dedicated and one of my bigger motivations is the challenges that technology imposes on me every day.
 
-I like to learning new things and focus in the my studies. Even graduated, I follow my journey by the world of knowledge and I am always opener to new ideas.
+I like to learn new things and focus on my studies. Even graduated, I follow my journey by the world of knowledge and I am always an opener to new ideas.
 
-The languages that use and I like so much are: Python and Ruby. I dedicate myself to learn new things in these technologies every day. Today, I use Python to web development and I like so much to study IA, Data Science and things related. So, I love tech, coffee, nerd things, games and science 🚀.
+The languages that I use and like so much are Python and Ruby. I dedicate myself to learn new things in these technologies every day. Today, I use Python for web development and I like so much to study IA, Data Science, and things related. So, I love tech, coffee, nerd things, games, and science 🚀.
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
