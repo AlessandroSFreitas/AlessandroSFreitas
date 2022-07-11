@@ -3,13 +3,8 @@
 <a href="https://www.linkedin.com/in/alessandro-spiercort-b44b48149/">
   <img align="left" alt="Alessandro's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<!-- <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
-</a> -->
 
-![.](https://visitor-badge.glitch.me/badge?page_id=AlessandroSFreitas.AlessandroSFreitas)
-
+<br />
 <br />
 
 Hi, I'm Alessandro Freitas, I'm professionally highly dedicated and one of my bigger motivations is the challenges that technology imposes on me every day.
