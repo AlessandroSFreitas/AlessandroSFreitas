@@ -54,8 +54,8 @@ The languages that I use and like so much are Python and Ruby. I dedicate myself
 <!--START_SECTION:waka-->
 ```text
 Python                 
-Django + Dajngo Rest
-English
+Data Science
+Machine Learning
 ```
 <!--END_SECTION:waka-->
 
