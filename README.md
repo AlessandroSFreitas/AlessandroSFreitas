@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there
 
 <a href="https://www.linkedin.com/in/alessandro-spiercort-b44b48149/">
   <img align="left" alt="Alessandro's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
