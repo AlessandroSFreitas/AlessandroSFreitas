@@ -7,14 +7,7 @@
 <br />
 <br />
 
-Hi, I'm Alessandro Spiercort, I'm professionally highly dedicated and one of my bigger motivations is the challenges that technology imposes on me every day.
-
-I like to learn new things and focus on my studies. Even graduated, I follow my journey by the world of knowledge and I am always an opener to new ideas.
-
-Today, I use Python for web development and I like so much to study game development (Unreal Engine) and things related. So, I love tech, coffee, nerd things, games, and science 🚀.
-
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+Software Engineer and Game Developer with 8+ years of experience building scalable systems, performant APIs, and immersive games. Specialized in Python (Django, FastAPI), backend architecture, and DevOps (Docker, Kubernetes, Kafka). Strong experience in AI and Data Science, applying Machine Learning techniques for system analysis and optimization. Currently, I'm developing a horror game in Unreal Engine 5, using C++ and Blueprints, focusing on advanced AI and immersive mechanics. Passionate about technology, innovation, and efficient solutions.
   
 - 💼 Any freelance work? do reach, [email](mailto:alessandro_freitas@icloud.com) :)
 - 💬 Ask me about anything, I'm happy to help;
@@ -22,7 +15,9 @@ Today, I use Python for web development and I like so much to study game develop
 📊  **Currently I spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-Python       
+Python, Django, DRF, FastAPI       
 Game Development (on my game, using Unreal Engine 5)
 ```
 <!--END_SECTION:waka-->
+
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
